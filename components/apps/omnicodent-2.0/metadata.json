@@ -1,0 +1,7 @@
+{
+  "name": "Omnicodent 2.0",
+  "description": "Turn anything into code. Upload an image or doodle, and watch Gemini 3.0 Pro turn it into a working app or game.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
